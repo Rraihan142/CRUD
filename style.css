@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+table th {
+    background-color: #f2f2f2;
+}
+table img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    height: auto;
+}
+
+.tambah-barang-header img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 200px;
+height: auto;
+}
